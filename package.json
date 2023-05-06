@@ -1,0 +1,16 @@
+{
+  "name": "mozfire-qr-generator",
+  "version": "1.0.0",
+  "description": "Generates a QR code for a given URL",
+  "main": "index.js",
+  "author": {
+    "name": "Harshit Ethic",
+    "github": "harshitethic",
+    "instagram": "harshitethic",
+    "website": "https://www.harshitethic.in"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
